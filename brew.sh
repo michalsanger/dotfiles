@@ -101,6 +101,15 @@ brew install tree
 brew install vbindiff
 brew install webkit2png
 brew install zopfli
+brew install autopano-sift-c
+brew install s3cmd
+brew install youtube-dl
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+brew cask install charles 
+brew cask install disk-inventory-x 
+brew cask install libreoffice 
+brew cask install postman 
+brew cask install sketch
