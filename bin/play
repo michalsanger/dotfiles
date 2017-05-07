@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ "$#" -eq 0 ]; then
+	echo "Usage: `basename $0` VIDEO [SUBTITLES]" >&2
+	exit 1
+fi
+
+vlc -q $1 --sub-file $2 --video-on-top --fullscreen
