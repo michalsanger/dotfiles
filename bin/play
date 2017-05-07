@@ -5,4 +5,4 @@ if [ "$#" -eq 0 ]; then
 	exit 1
 fi
 
-vlc -q $1 --sub-file $2 --video-on-top --fullscreen
+vlc -q "$1" --sub-file "$2" --video-on-top --fullscreen
