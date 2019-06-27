@@ -93,28 +93,6 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
-brew install autopano-sift-c
-brew install s3cmd
-brew install youtube-dl
-brew install watchman
-brew install yarn
 
 # Remove outdated versions from the cellar.
 brew cleanup
-
-brew cask install atom
-brew cask install betwixt
-brew cask install charles
-brew cask install disk-inventory-x
-brew cask install google-chrome
-brew cask install graphiql
-brew cask install java
-brew cask install libreoffice
-brew cask install opera
-brew cask install postman
-brew cask install skype
-brew cask install slack
-brew cask install sourcetree
-brew cask install sqlectron
-brew cask install sublime-text
-brew cask install vlc
