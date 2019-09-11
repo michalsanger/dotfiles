@@ -190,11 +190,14 @@ brew install youtube-dl
 brew cleanup
 
 brew cask install adobe-acrobat-reader
-brew cask install atom
+brew cask install bloomrpc
 brew cask install charles
+brew cask install deckset
 brew cask install disk-inventory-x
 brew cask install docker
 brew cask install dropbox
+brew cask install droplr
+brew cask install expo-xde
 brew cask install google-chrome
 brew cask install grammarly
 brew cask install graphiql
@@ -205,11 +208,11 @@ brew cask install meld
 brew cask install ngrok
 brew cask install opera
 brew cask install postman
-brew cask install skype
+brew cask install qbittorrent
 brew cask install slack
-brew cask install sourcetree
 brew cask install sqlectron
 brew cask install sublime-text
 brew cask install tower
+brew cask install visual-studio-code
 brew cask install vlc
 brew cask install zeplin
